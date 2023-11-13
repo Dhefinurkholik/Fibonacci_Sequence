@@ -1,5 +1,12 @@
 # Fibonacci_Sequence
 
+|  |  |  |
+|-----|------|-----|
+|Nama|Dhefi Nurkholik|
+|NIM|312210414|
+|Kelas|TI.22.A.4|
+|Mata Kuliah|Pemograman Web|
+
 ## Apa itu Fibonacci Sequence
 
  - Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh dengan menjumlahkan dua angka sebelumnya:<br>
